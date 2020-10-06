@@ -4,3 +4,6 @@
 .DocumentRevisions-V100
 .TemporaryItems
 .fseventsd
+Backups.backupdb
+._.*
+.com.apple*
